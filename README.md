@@ -3,9 +3,7 @@
 
 > Used Programming languages/Libraries
 
-[![NPM Version][npm-image]][npm-url]
-[![Build Status][travis-image]][travis-url]
-[![Downloads Stats][npm-downloads]][npm-url]
+[![Languages](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 <p align="center" >
