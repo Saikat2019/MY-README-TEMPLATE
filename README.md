@@ -35,8 +35,8 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 ## Get Feedback
 
  -	### Give me feed back here.
- 		-[My Email](#email)
- 		-[My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free ping*
+ -[My Email](#email)
+ -[My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free ping*
 
 ## Contribute
 
