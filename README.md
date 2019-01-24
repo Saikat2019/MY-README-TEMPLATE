@@ -21,7 +21,7 @@ This is a README template I created to use in all my projects.
 </p>
 
 ## Table of Contents
--[License](#LICENSE)
+- [License](#mas)
 
 ## Installation
 
