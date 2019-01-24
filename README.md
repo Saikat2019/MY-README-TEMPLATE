@@ -14,10 +14,14 @@
 > To create more badges like the upper ones go to - https://shields.io
 > Full documentation/ MarkDown Guide - https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/
 
-Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
+This is a README template I created to use in all my projects.
+
 <p align="center" >
-<img src="README_RES/screen_shot.jpg" height="300" width="600">
+<img src="README_RES/codesnippet.jpg" height="300" width="600">
 </p>
+
+## Table of Contents
+-[License](#LICENSE)
 
 ## Installation
 
