@@ -1,53 +1,85 @@
-# myREADMEtemplate
+<img src="README_RES/icon.jpeggit " align="right" />
 
-README
+# Awesome README [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+> A curated list of awesome READMEs
 
-included:
-All source files (.cc, .hh, .cpp, .h)
-this README
-Makefile
-Output dumped by gprof for 5 tests (see below on why I don't have profiling data for BST/words.txt test)
+Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 
-Homework #5
+## Examples
 
-I'd like to first mention that the biggest problems I encountered during this project were really stupid and idiotic typos; simple things like accidentally putting a colon where a semicolon belong (for the last method of a class of all cases! Gave me weird errors about no constructor body) or dumb errors in my Makefile, which caused all sorts of weird compiling issues.
+- [ai/size-limit](https://github.com/ai/size-limit) - Project logo, clear description, screenshot, step-by-step installing instructions.
+- [aimeos/aimeos-typo3](https://github.com/aimeos/aimeos-typo3) - Project logo. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- [amitmerchant1990/electron-markdownify](https://github.com/amitmerchant1990/electron-markdownify) - Project logo. Minimalist description of what it is. GIF demo of the project. Key features. How to install guide. Credits.
+- [anfederico/Clairvoyant](https://github.com/anfederico/Clairvoyant) - Multiple badges. Clean logo. Simple install instructions. Clear overview of the project accompanied by a schematic. GIF demo. Extensive code examples.
+- [angular-medellin/meetup](https://github.com/angular-medellin/meetup) - Project banner. Badges for stats. Well placed emoticons. Contributor's photos.
+- [athityakumar/colorls](https://github.com/athityakumar/colorls) - Multiple badges. Clean screenshots. Simple install instructions. TOC for easy navigation. Good contributor guidelines.
+- [choojs/choo](https://github.com/choojs/choo) - Badges, clean, clear. Beautiful little menu above the fold with useful links. An FAQ inside of it for the main questions. Backers. Good language.
+- [Day8/re-frame](https://github.com/Day8/re-frame) - Badges, logo, TOC, etc. Stands out by being a giant, well-written essay about the tech, how to use it, the philosophy behind it, and how it fits into the greater ecosystem.
+- [github-changelog-generator/github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator) - TOC for easy navigation. Concise project description. Installation and usage sections. Output example. Great feature overview. List of alternatives. FAQ.
+- [gitpoint/git-point](https://github.com/gitpoint/git-point) - Clear description. Project Logo. App Store logos. TOC. Clean screenshots. List of features. Detailed installation process. Landing Page.
+- [Hexworks/Zircon](https://github.com/Hexworks/zircon) - Dogfood in readme. Clear description of what the project does. Demo screenshot. TOC for easy navigation. Easy installation and setup sections with screenshots. Links for further reading.
+- [iharsh234/WebApp](https://github.com/iharsh234/WebApp) - Project landing page. Clear description of what the project does. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses and a mobile demo section.
+- [jakubroztocil/httpie](https://github.com/jakubroztocil/httpie) - Description of what the project does. Demo screenshots. Project logo. TOC for easy navigation. Build badges. Quick and simple installation and usage sections. Includes an examples section.
+- [karan/joe](https://github.com/karan/joe) - Project logo. Clear description of what the project does. GIF demo. Easy install and usage sections.
+- [Martinsos/edlib](https://github.com/Martinsos/edlib) - Informative badges (build, version, publication). Concise description. Feature list. TOC. Screenshots. Concise instructions with examples for building and including in your project. Common code examples to get you started quickly.
+- [nhnent/tui.editor](https://github.com/nhnent/tui.editor) - Project logo. Clear overview of project features with a demo GIF. Badges. TOC for easy navigation. Colorful icons in front of titles.
+- [node-chat](https://github.com/IgorAntun/node-chat) - Project screenshot. Informative badges. Clear description. Easy installation/use instructions. Live demo.
+- [NSRare/NSGIF](https://github.com/NSRare/NSGIF) - Project logo. GIF Demo. Usage artwork. Usage code samples.
+- [sidneycadot/oeis](https://github.com/sidneycadot/oeis) - Overview. List of required dependencies. Complete list of all files in the repo and what their function is. Visual graph of how it all ties together.
+- [php-censor/php-censor](https://github.com/php-censor/php-censor) - Multiple badges, project logo, screenshots, step-by-step installing and upgrading instructions, TOC for easy navigation.
+- [rstacruz/hicat](https://github.com/rstacruz/hicat) - GIF demo. Easy installation and setup sections with screenshots. Build badges. Great examples of use cases.
+- [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Clean project logo. Brief description at top. Sankey diagram, quick links, badges, OS specific icons, TOC, detailed release changelog.
+- [sebyddd/SDVersion](https://github.com/sebyddd/SDVersion) - Project logo. Build badges. Documentation structuring for multiple programming languages. Usage examples.
+- [shama/gaze](https://github.com/shama/gaze) - Project logo. Concise description. Feature list. Usage section. FAQ. Great API documentation. Release history.
+- [sindresorhus/pageres](https://github.com/sindresorhus/pageres) - Project logo. Clear description of what the project does. Build badges. Demo screenshot. Simple install and usage sections. Includes an examples section with common uses.
+- [sourcerer-io/sourcerer-app](https://github.com/sourcerer-io/sourcerer-app) - Clean animated screenshot. Customized call to action badge. Usage showcase.
+- [sr6033/lterm](https://github.com/sr6033/lterm) - Clean logo using characters. Brief updates on development. Detailed contribution guidelines. Contribution suggestions.
+- [teles/array-mixer](https://github.com/teles/array-mixer) - Clean project logo, badges. Table of contents. Contributing section. Many illustrated examples.
+- [thelounge/thelounge](https://github.com/thelounge/thelounge) - Project logo. Useful badges and links (website, docs, demo). Screenshot. Feature list. Step-by-step instructions for installation, development, and testing. Link to the contributing guide. Good mobile summary.
+- [vhesener/Closures](https://github.com/vhesener/Closures) - Project logo, cognitive funnel, animated examples. Color coordinated. Clean documentation.
+- [webpro/release-it](https://github.com/webpro/release-it) - Clear overview of project features with a demo GIF. Badges. Expandable TOC. Usage description and examples. Contribution guidelines. Detailed releases.
 
-Anyway, my implementation of this homework is what I call the "lazy way".  In other words, I tried to make my life as easy as possible while still maintaining the guidelines.  When I say " as easy as possible," I'm actually only considering the present.  Because of this, my AVL and Splay trees are not templated (i.e. they inherit from BinarySearchTree< string, int >).  Also, I didn't want to worry about messy inheritance issues stemming from using an AVLNode that inheritsfrom a BSTNode, so in order to implement height, I altered BSTNode and its constructor.  No other reason than simplicity.  Height is initialized by default to 0, and is only updated during AVLTree inserts (and rotations, etc.).  Height is not updated (nor used) in any other case.
+## Articles
 
-A lot of the code used in my AVL tree looks quite similar to the textbook's.  I tried my hardest not to copy, but I have this uncanny ability to memorize things really easily (really!), so it was hard not to implement the same way.  Rest assured though, I pretty much wrote AVLTree without consulting the text while I was coding.  SplayTree I completely wrote myself, since there is no sample code.  Just had to get that confession out of the way.
+- ["Art of Readme - Learn the art of writing quality READMEs."](https://github.com/noffle/art-of-readme) - *Stephen Whitmore*
+- ["How To Write A Great README"](https://robots.thoughtbot.com/how-to-write-a-great-readme) - *Caleb Thompson (thoughtbot)*
+- ["How To Write A Readme"](http://jfhbrook.github.io/2011/11/09/readmes.html) - *Joshua Holbrook*
+- ["Readme Driven Development"](http://tom.preston-werner.com/2010/08/23/readme-driven-development.html) - *Tom Preston-Werner*
+- ["Top ten reasons why I won’t use your open source project"](https://changelog.com/posts/top-ten-reasons-why-i-wont-use-your-open-source-project) - *Adam Stacoviak*
+- ["What I learned from an old GitHub project that won 3,000 Stars in a Week"](https://medium.freecodecamp.org/what-i-learned-from-an-old-github-project-that-won-3-000-stars-in-a-week-628349a5ee14) - *KyuWoo Choi*
 
-Also, for Splay trees, the tree is splayed during Inserts and Finds (even though Find is never used in my code, I still implemented it).  If a key can't be found, then it splays it's parent.  If there is a collision during Insert, the value is incremented and then that node is splayed.
+## Tools
 
-In fact, for all inserts, if there is a collision, the value of that key is incremented by one.  I directly altered the BST code to do this for BST's.
+- [Common Readme](https://github.com/noffle/common-readme) - A common readme style for Node. Includes a guide and a readme generator.
+- [Feedmereadmes](https://github.com/lappleapple/feedmereadmes) - README editing and project analysis/feedback.
+- [Make a README](https://www.makeareadme.com/) - A guide to writing READMEs. Includes an editable template with live Markdown rendering.
+- [README best practices](https://github.com/jehna/readme-best-practices) - A place to copy-paste your README.md from
+- [Standard Readme](https://github.com/RichardLitt/standard-readme) - A standard README style specification. Has a generator to help create spec-compliant READMEs, too.
+- [Zalando's README Template](https://github.com/zalando/zalando-howto-open-source/blob/master/READMEtemplate.md) - Simple template to help you cover all the basics.
 
-For the HeapSort algorithm, I felt it'd be more efficient to not create an additional heap data structure.  Instead, I used an array, keeping in mind that children were in index 2i+1 and 2i+2.  In order to maintain key and value relationships, anytime a value changed position in the array, the key would also change position in the exact same way.  
+## Creating GIFs
 
-One thing you may notice is that I migrated over to strings.  My previous assignments used char arrays, but for this assignment where lots of comparisons are needed, it made it easier to just use strings.
+Embedding an animated gif in your README quickly demonstrates what your project does and catches the reader's eye.  Here are a few programs that can help you quickly create gifs for your project:
 
-And finally... (drumroll please...)
+- [Gifox](https://gifox.io) - **$4.99** - Cleanest UI, hotkeys, lots of advanced features
+- [Giphy Capture](https://giphy.com/apps/giphycapture) - **FREE** - Easy to upload to giphy.com, slightly annoying UX.
+- [LICEcap](https://www.cockos.com/licecap/) - **FREE** - Less intuitive, more features
+- [Recordit](http://recordit.co/) - **FREE** - Simple, clean UI, but auto-uploads to [recordit.co](http://recordit.co)
+- [ttystudio](https://github.com/chjj/ttystudio) - **FREE** - For commandline tools, a terminal-to-gif recorder minus the headaches.
 
-Well first of all, comparing plays with stories is probably NOT the most effective way of looking for similarities.  For example, it is natural to assume that in plays, "I", "you", "me", etc. would be used far more often than in stories.  However, there are some interesting (and uninteresting) similarities.
+## Get Feedback
 
-Looking at the top 5 through 10 words used, they are quite similar to each other, which probably stems more from the fact that both authors used the English language than the possibility that they are the same author.  Looking at the next 10 most used words, differences are noticable.  Bacon uses the word "which" quite often, while Shakespeare rarely uses that word.  Also, for the similar word "that," Bacon also uses more often.  I think this is a key difference which is enough proof to show that they are not similar authors.  This conclusion comes from the assumption of the usage for "which" and "that".  Usually, these two words are used to extend the meaning of something (sorry, I'm not an English major).  Obviously, Bacon likes to use these words more often to link sentences.
+- [feedmereadmes](https://github.com/LappleApple/feedmereadmes) - Free README editing+feedback to make your open-source projects grow. See the README maturity model to help you keep going.
+- [maintainer.io](https://maintainer.io/) - Free README standardization and feedback, if you click on 'Book an audit'.
+- This repository. Submit a PR with your README!
 
+## Contribute
 
-Extra Credit:
-Profiling
+Contributions are always welcome!
+Please read the [contribution guidelines](contributing.md) first.
 
-I used words.txt and the-new-atlantis.txt to profile my results.
+## License
 
-In general, I expect a lot of bottlenecks to occur in the input parsing (i.e., get()'s), since we did learn that input takes a long time.
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-BSTrees:
-For BSTrees, my expectations were that huge bottlenecks would occur in the Insert() method, and specifically, the FindNode() method called within Insert().  For atlantis, I got some pretty unexpected (but not surprising) results.  Since the data is "random" enough, I'm assuming the tree was probably somewhat balanced.  Because of this, most of the time was spent inputting and comparing strings.  Looking at my code, there are a lot of string comparisons, especially because of the HeapSort.  I should probably expect lots of comparisons in the other profiles.
-
-Unfortunately, I was not able to profile the words.txt run.  I ran the program at around 8:30 pm, but at around 11:00 pm, it was still going, and I decided there wasn't enough time to wait for it.  However, my guess is that FindNode() took FOREVER, since the tree being created was very very VERY unbalanced.  Yech.
-
-AVL Trees:
-I got a somewhat surprising result for AVLTrees.  Out of all the methods I coded, I DID expect RecursiveInsert() to take the longest, but I did NOT expect it to take longer than input and all the other methods in the file that I cannot comprehend.  Now that I think about it, it STILL doesn't make much sense to me.  I mean, the average time it spent within itself (i.e. not including descendents) was 2.84 ms per call.  This I find surprising because RecursiveInsert() is basically a bunch of function calls.  It doesn't even have any loops!  I suppose the easy answer would be its recursive nature.  This was basically the same for words and atlantis.
-
-Splay Trees:
-Ah, good ol' Splay Trees.  I expected Splay to not have many bottlenecks, in terms of its own methods.  This was pretty much correct.  For words, most of the time was spent inputting and outputting (whatever ostream::flush() is...), which is expected since the input is large.  For atlantis, it spent the most time doing string comparisons, and also a lot of rotations, since HasParent() is high up in the rankings.  Insert's probably cost more for atlantis than for words, due to the nature of the input.  Something that really surprised me was that Splay took the longest time for the atlantis test.  I really don't have any ideas why, since I'd expect it to do really well.  Maybe if I used even larger input...
-
-
-Overall, the biggest bottleneck in my program would be using BinarySearchTrees with ugly sorted input like words.txt.  The bottleneck is so huge, I didn't have enough time to profile it.  For "normal" input though, input and output are still the biggies, and there really isn't much you can do about it, unless you're an uber-hacker.
+To the extent possible under law, [Matias Singers](http://mts.io) has waived all copyright and related or neighboring rights to this work.
