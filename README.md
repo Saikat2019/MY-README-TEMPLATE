@@ -15,9 +15,9 @@
 [![Downloads Stats][npm-downloads]][npm-url]
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
-
-<img src="README_RES/screen_shot.jpg" align="center" height="300" width="600">
-
+<p align="center" >
+<img src="README_RES/screen_shot.jpg" height="300" width="600">
+</p>
 ## Examples
 
 - [ai/size-limit](https://github.com/ai/size-limit) - Project logo, clear description, screenshot, step-by-step installing instructions.
