@@ -5,11 +5,6 @@
 
 > my README template which I use in my projects
 
-## my fb dp
-<p align="center">
-<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/47574379_824621541262513_325880162547662848_n.jpg?_nc_cat=107&_nc_oc=AQnlCMlo-QMFoJAGZjURtqsqx-9WKXjnTFBBnzNrRzPXOFT9GaXsCw_sCzVrFTn_Lvs&_nc_ht=scontent-bom1-1.xx&oh=70f82b34260b22d80b1dd4bad4d81f72&oe=5CC1FE8F" width="100" height="100" >
-</p>
-
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
 [![Downloads Stats][npm-downloads]][npm-url]
@@ -37,6 +32,10 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
  -	### Give me feed back here.
  - [My Email](#email) 
  - [My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free ping*
+ <p align="center">
+ -  ### my fb dp
+	<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/47574379_824621541262513_325880162547662848_n.jpg?_nc_cat=107&_nc_oc=AQnlCMlo-QMFoJAGZjURtqsqx-9WKXjnTFBBnzNrRzPXOFT9GaXsCw_sCzVrFTn_Lvs&_nc_ht=scontent-bom1-1.xx&oh=70f82b34260b22d80b1dd4bad4d81f72&oe=5CC1FE8F" width="100" height="100" >
+	</p>
 
 ## Contribute
 
