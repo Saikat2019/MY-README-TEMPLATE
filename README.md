@@ -29,7 +29,9 @@ pip install numpy
 
 ## Steps & Usage 
 
-```cpp
+	- ### cpp sample code
+
+```cpp 
 #include <iostream>
 
 using namespace std
@@ -37,16 +39,18 @@ using namespace std
 int main(){
 	cout << "Hey,I'm Saikat"<<endl;
 }
-
 ```
+	- ### Java sample code
+
 ```java
 class SAIKAT extends PROGRAMMER implements CODING {
 	public SAIKAT(){
 		System.out.println("Hey,I'm Saikat");
 	}
 }
-
 ```
+	- ### python sample code
+
 ```python
 import cv2
 
