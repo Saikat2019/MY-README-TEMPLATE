@@ -3,14 +3,14 @@
 
 > Used Programming languages/Libraries
 
-[![Language](https://img.shields.io/badge/C%2B%2B-17-blue.svg)](https://isocpp.org/)
-[![Language](https://img.shields.io/badge/python-3.5-blue.svg)](https://docs.python.org/3/)
-[![Language](https://img.shields.io/badge/Java-18.9-blue.svg)](https://www.java.com/en/)
+[![Language](https://img.shields.io/badge/C%2B%2B-17-0000ff.svg)](https://isocpp.org/)
+[![Language](https://img.shields.io/badge/python-3.5-009900.svg)](https://docs.python.org/3/)
+[![Language](https://img.shields.io/badge/Java-18.9-8f00b3.svg)](https://www.java.com/en/)
 
-[![Library](https://img.shields.io/badge/ROS-kinetic-brightgreen.svg)](http://www.ros.org/)
-[![Library](https://img.shields.io/badge/OpenCV-3.3.1-brightgreen.svg)](https://opencv.org/)
+[![Library](https://img.shields.io/badge/ROS-kinetic-006600.svg)](http://www.ros.org/)
+[![Library](https://img.shields.io/badge/OpenCV-3.3.1-6600cc.svg)](https://opencv.org/)
 
-> To create more badges like the upper ones go to - https://shields.io/
+> To create more badges like the upper ones go to - https://shields.io
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 <p align="center" >
