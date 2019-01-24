@@ -1,4 +1,5 @@
-# MY README TEMPLATE
+# MY README TEMPLATE 
+
 <img src="README_RES/icon.jpeg" align="right" />
 
 > Used Programming languages/Libraries
@@ -11,11 +12,48 @@
 [![Library](https://img.shields.io/badge/OpenCV-3.3.1-6600cc.svg)](https://opencv.org/)
 
 > To create more badges like the upper ones go to - https://shields.io
+> Full documentation/ MarkDown Guide - https://about.gitlab.com/handbook/product/technical-writing/markdown-guide/
 
 Elements in beautiful READMEs include, but are not limited to: images, screenshots, GIFs, text formatting, etc.
 <p align="center" >
 <img src="README_RES/screen_shot.jpg" height="300" width="600">
 </p>
+
+## Installation
+
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+
+```bash
+pip install numpy
+```
+
+## Steps & Usage 
+
+```cpp
+#include <iostream>
+
+using namespace std
+//Always use int main() and return 0 ....never void main()
+int main(){
+	cout << "Hey,I'm Saikat"<<endl;
+}
+
+```
+```java
+class SAIKAT extends PROGRAMMER implements CODING {
+	public SAIKAT(){
+		System.out.println("Hey,I'm Saikat");
+	}
+}
+
+```
+```python
+import cv2
+
+image = cv2.imread("img.png") #reads image
+cv2.imshow(image) #shows the image
+cv2.waitKey(0)
+```
 
 ## Examples
 
@@ -43,8 +81,9 @@ Elements in beautiful READMEs include, but are not limited to: images, screensho
 ## Contribute
 
 Contributions are always welcome!
-Please *create an issue if you find one* first.
+Please *create an issue if you find one*.
 
 ## License
 
 >License of the Project goes here.
+[MIT](https://choosealicense.com/licenses/mit/)
