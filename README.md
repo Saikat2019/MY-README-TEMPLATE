@@ -21,6 +21,13 @@ This is a README template I created to use in all my projects.
 </p>
 
 ## Table of Contents
+- [INSTALLATION](#Installation)
+- [STEPS](#Steps)
+- [EXAMPLES](#Examples)
+- [REFERENCES](#References)
+- [TOOLS](#Tools)
+- [FEEDBACK](#Get-Feedback)
+- [CONTRIBUTE](#Contribute)
 - [LICENSE](#License)
 
 ## Installation
@@ -67,7 +74,7 @@ cv2.waitKey(0)
 
 - [myRepos/cv_camera](https://github.com/Saikat2019/cv_camera) - How to use camera in *ROS*
 
-## Articles
+## References
 
 - [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) - A good source to get startes - *Offocial ROS Tutorials*
 
@@ -94,4 +101,5 @@ Please *create an issue if you find one*.
 ## License
 
 >License of the Project goes here.
+
 [MIT](https://choosealicense.com/licenses/mit/)
