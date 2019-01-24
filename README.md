@@ -27,9 +27,9 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 pip install numpy
 ```
 
-## Steps & Usage 
+## Steps  
 
-	- ### cpp sample code
+- ### cpp sample code
 
 ```cpp 
 #include <iostream>
@@ -40,7 +40,7 @@ int main(){
 	cout << "Hey,I'm Saikat"<<endl;
 }
 ```
-	- ### Java sample code
+- ### Java sample code
 
 ```java
 class SAIKAT extends PROGRAMMER implements CODING {
@@ -49,7 +49,7 @@ class SAIKAT extends PROGRAMMER implements CODING {
 	}
 }
 ```
-	- ### python sample code
+- ### python sample code
 
 ```python
 import cv2
