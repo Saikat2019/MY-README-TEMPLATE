@@ -21,14 +21,14 @@ This is a README template I created to use in all my projects.
 </p>
 
 ## Table of Contents
-- [INSTALLATION](#Installation)
-- [STEPS](#Steps)
-- [EXAMPLES](#Examples)
-- [REFERENCES](#References)
-- [TOOLS](#Tools)
-- [FEEDBACK](#Get-Feedback)
-- [CONTRIBUTE](#Contribute)
-- [LICENSE](#License)
+- [Installation](#Installation)
+- [Steps](#Steps)
+- [Examples](#Examples)
+- [References](#References)
+- [Tools](#Tools)
+- [Feedback](#Get-Feedback)
+- [Contribute](#Contribute)
+- [License](#License)
 
 ## Installation
 
@@ -37,6 +37,7 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
 ```bash
 pip install numpy
 ```
+[↥ back to top](#table-of-contents)
 
 ## Steps  
 
@@ -69,19 +70,25 @@ image = cv2.imread("img.png") #reads image
 cv2.imshow(image) #shows the image
 cv2.waitKey(0)
 ```
+[↥ back to top](#table-of-contents)
 
 ## Examples
 
 - [myRepos/cv_camera](https://github.com/Saikat2019/cv_camera) - How to use camera in *ROS*
 
+[↥ back to top](#table-of-contents)
+
 ## References
 
 - [ROS Tutorial](http://wiki.ros.org/ROS/Tutorials) - A good source to get startes - *Offocial ROS Tutorials*
 
+[↥ back to top](#table-of-contents)
+
 ## Tools
 
 - [Common Readme Template](https://github.com/Saikat2019/MY_README_TEMPLATE/blob/master/README.md) - A common readme template I use.
-- 
+
+[↥ back to top](#table-of-contents)
 
 ## Get Feedback
 
@@ -93,13 +100,19 @@ cv2.waitKey(0)
 		<img src="https://scontent-bom1-1.xx.fbcdn.net/v/t1.0-9/47574379_824621541262513_325880162547662848_n.jpg?_nc_cat=107&_nc_oc=AQnlCMlo-QMFoJAGZjURtqsqx-9WKXjnTFBBnzNrRzPXOFT9GaXsCw_sCzVrFTn_Lvs&_nc_ht=scontent-bom1-1.xx&oh=70f82b34260b22d80b1dd4bad4d81f72&oe=5CC1FE8F" width="100" height="100" >
 	</p>
 
+[↥ back to top](#table-of-contents)
+
 ## Contribute
 
 Contributions are always welcome!
 Please *create an issue if you find one*.
+
+[↥ back to top](#table-of-contents)
 
 ## License
 
 >License of the Project goes here.
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+[↥ back to top](#table-of-contents)
