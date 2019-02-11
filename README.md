@@ -1,6 +1,6 @@
 # MY README TEMPLATE 
 
-<img src="README_RES/icon.jpeg" align="right" />
+<img src="https://raw.githubusercontent.com/Saikat2019/MY_README_TEMPLATE/master/README_RES/icon.jpeg" align="right" />
 
 > Used Programming languages/Libraries
 
