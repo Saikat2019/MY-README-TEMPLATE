@@ -93,7 +93,7 @@ cv2.waitKey(0)
 ## Get Feedback
 
  -	### Give me feed back here.
-	 - [My Email](#email) 
+	 - [My Email](mailto:saikatmondal410@iitkgp.ac.in) 
 	 - [My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free to ping*
  -  ### Me
  	<p>
