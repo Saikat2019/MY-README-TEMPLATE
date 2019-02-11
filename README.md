@@ -97,7 +97,7 @@ cv2.waitKey(0)
 	 - [My Facebook ID](https://www.facebook.com/profile.php?id=100011440244328) - *feel free to ping*
  -  ### Me
  	<p>
-		<img src="https://avatars2.githubusercontent.com/u/33754597?v=4" />
+		<img src="https://avatars2.githubusercontent.com/u/33754597?v=4" width="100" height="100" />
 	</p>
 
 [↥ back to top](#table-of-contents)
